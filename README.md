@@ -20,7 +20,7 @@ CloudWatch Logs
 - **API Gateway** — HTTP API, 2 routes
 - **DynamoDB** — NoSQL, on-demand capacity
 - **IAM** — Lambda execution role with DynamoDB access
-- **CloudWatch** — Automatic logging and metrics
+- **CloudWatch** — Automatic logging and metrics.
 
 ## Usage
 
